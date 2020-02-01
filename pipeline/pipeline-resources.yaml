@@ -17,4 +17,4 @@ spec:
   type: git
   params:
   - name: url
-    value: https://github.com/redhatworkshops/openshift-knative-application
+    value: https://github.com/liuxiaoyu-git/openshift-knative-application
